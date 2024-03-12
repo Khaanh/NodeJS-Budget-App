@@ -1,3 +1,7 @@
+const Note = require("../models/Notes");
+const mongoose = require("mongoose");
+const Schema = mongoose.Schema;
+
 /**
  * GET /
  * Dashboard
