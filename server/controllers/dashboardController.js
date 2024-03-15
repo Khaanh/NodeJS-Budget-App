@@ -198,7 +198,7 @@ exports.dashboardSearch = async (req, res) => {
 };
 
 /**
- * PSOT /
+ * POST /
  * Search For Notes
  */
 
